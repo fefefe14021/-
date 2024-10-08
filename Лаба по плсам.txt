@@ -1,0 +1,14 @@
+﻿"Языки программирования.exe" (Win32). Загружено "C:\Users\stepa\source\repos\Языки программирования\x64\Debug\Языки программирования.exe". Символы загружены.
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 14708 завершился с кодом 0 (0x0).
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". 
+"Языки программирования.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". 
+Поток 18692 завершился с кодом 0 (0x0).
+Поток 20932 завершился с кодом 0 (0x0).
+Программа "[6720] Языки программирования.exe" завершилась с кодом 0 (0x0).
